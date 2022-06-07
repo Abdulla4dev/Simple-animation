@@ -1,0 +1,32 @@
+span{
+    display: inline-block;
+    text-align: center;
+    font-size: 5rem;
+    animation: animate 3s infinite;
+    padding: 0px 35px;
+    box-shadow: 0 0 50px;
+}
+
+span:nth-child(4)
+{
+
+transform: translateY(30deg);
+}
+
+@keyframes animate {
+    0%{
+      transform: scaleY(1); 
+      color: rgb(0, 204, 255); ; 
+    }
+    25%{
+       transform: scaleY(1.5);
+       color:rgb(255, 145, 0); 
+    }
+    75%{
+        transform: scaleX(2.2); 
+        color: rgb(255, 0, 179);
+    }
+    100%{
+        transform: scaleX(1);
+        color: rgb(241, 55, 55); 
+}
