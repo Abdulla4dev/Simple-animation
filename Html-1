@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <lang="en">
+    <title>
+        Login
+    </title>
+    <link rel="stylesheet" href="./Custom.css"/>
+    <script src="../JS/Javas.js"></script>
+    <script src="https://kit.fontawesome.com/25c3bf7ca5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+       <div class="dabba">
+        <div class="all-box">
+            <span class="box-1"></span>
+            <span class="box-2">A</span>
+            <span class="box-3">B</span>
+            <span class="box-4">D</span>
+            <span class="box-5">U</span>
+            <span class="box-6">L</span>
+            <span class="box-7">L</span>
+            <span class="box-8">A</span>
+            <span class="box-9">2</span>
+        </div>
+    </div>
+</body>
+</html>
